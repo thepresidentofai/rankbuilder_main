@@ -27,7 +27,7 @@ Build settings:
 
 ## First Launch Checklist
 
-- Create GitHub repo `thepresidentofai/rankbuilderseo-site`.
+- GitHub repo: `thepresidentofai/rankbuilder_main`.
 - Push this repo to `main`.
 - Create Cloudflare Pages project `rankbuilderseo`.
 - Attach `rankbuilderseo.com` and `www.rankbuilderseo.com`.
