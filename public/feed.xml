@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Rank Builder SEO</title>
+    <link>https://rankbuilderseo.com/</link>
+    <description>SEO how-to notes and experiment logs.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Technical SEO Baseline Checklist</title>
+      <link>https://rankbuilderseo.com/articles/technical-seo-baseline-checklist/</link>
+      <guid>https://rankbuilderseo.com/articles/technical-seo-baseline-checklist/</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+      <description>A practical technical SEO baseline checklist for small static websites.</description>
+    </item>
+    <item>
+      <title>Cloudflare Pages SEO Test Plan</title>
+      <link>https://rankbuilderseo.com/articles/cloudflare-pages-seo-test-plan/</link>
+      <guid>https://rankbuilderseo.com/articles/cloudflare-pages-seo-test-plan/</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+      <description>A simple first SEO test plan for static sites deployed on Cloudflare Pages.</description>
+    </item>
+  </channel>
+</rss>

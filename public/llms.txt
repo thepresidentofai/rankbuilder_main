@@ -1,0 +1,11 @@
+# Rank Builder SEO
+
+Rank Builder SEO publishes practical SEO guides and experiment notes.
+
+Primary sections:
+
+- Home: https://rankbuilderseo.com/
+- Sitemap: https://rankbuilderseo.com/sitemap.xml
+- RSS feed: https://rankbuilderseo.com/feed.xml
+
+This site is intended for public indexing unless a future experiment explicitly records a different crawl policy.
