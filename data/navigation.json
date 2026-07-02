@@ -1,0 +1,9 @@
+[
+  { "label": "Guides", "href": "/guides/" },
+  { "label": "Reviews", "href": "/reviews/" },
+  { "label": "Pricing", "href": "/pricing/" },
+  { "label": "Patterns", "href": "/bad-seo-patterns/" },
+  { "label": "Experiments", "href": "/experiments/" },
+  { "label": "Dictionary", "href": "/dictionary/" },
+  { "label": "Methodology", "href": "/methodology/" }
+]

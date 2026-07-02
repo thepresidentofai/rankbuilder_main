@@ -1,0 +1,120 @@
+[
+  {
+    "id": "guides",
+    "label": "Guides",
+    "description": "Practical buyer-defense guides for reading SEO work, proposals, audits, and recurring reports.",
+    "output_path": "/guides/",
+    "content_types": ["guide"],
+    "template": "guide.html",
+    "icon": "clipboard"
+  },
+  {
+    "id": "technical-seo",
+    "label": "Technical SEO",
+    "description": "Crawlability, canonicals, sitemaps, rendering, and deployment details that survive contact with real sites.",
+    "output_path": "/technical-seo/",
+    "content_types": ["technical-seo"],
+    "template": "guide.html",
+    "icon": "wrench"
+  },
+  {
+    "id": "local-seo",
+    "label": "Local SEO",
+    "description": "Local visibility and location-signal guidance that stays grounded in verifiable setup and maintenance work.",
+    "output_path": "/local-seo/",
+    "content_types": ["local-seo"],
+    "template": "guide.html",
+    "icon": "magnifying-glass"
+  },
+  {
+    "id": "providers",
+    "label": "Provider Reviews",
+    "description": "Evidence-first reviews of SEO providers, deliverable claims, and buyer-facing promises.",
+    "output_path": "/providers/",
+    "content_types": ["provider-review"],
+    "template": "provider-review.html",
+    "icon": "shield-check"
+  },
+  {
+    "id": "audit-reviews",
+    "label": "Audit Reviews",
+    "description": "Reviews of SEO audit quality, scope, proof, and the difference between signal and performance theater.",
+    "output_path": "/audit-reviews/",
+    "content_types": ["audit-review"],
+    "template": "audit-review.html",
+    "icon": "receipt"
+  },
+  {
+    "id": "pricing",
+    "label": "Pricing",
+    "description": "Pricing transparency, buying models, and the questions that matter before a contract gets signed.",
+    "output_path": "/pricing/",
+    "content_types": ["pricing"],
+    "template": "standard-page.html",
+    "icon": "receipt"
+  },
+  {
+    "id": "dictionary",
+    "label": "Dictionary",
+    "description": "Short, technical definitions for SEO terms that are often used loosely or explained badly.",
+    "output_path": "/dictionary/",
+    "content_types": ["dictionary"],
+    "template": "dictionary-entry.html",
+    "icon": "book"
+  },
+  {
+    "id": "templates",
+    "label": "Templates",
+    "description": "Editorial templates and publishing scaffolds used to keep future work consistent and reviewable.",
+    "output_path": "/templates/",
+    "content_types": ["template"],
+    "template": "standard-page.html",
+    "icon": "clipboard"
+  },
+  {
+    "id": "checklists",
+    "label": "Checklists",
+    "description": "Checklists for repeatable reviews, launches, audits, and verification steps.",
+    "output_path": "/checklists/",
+    "content_types": ["checklist"],
+    "template": "standard-page.html",
+    "icon": "ruler-measure"
+  },
+  {
+    "id": "bad-seo-patterns",
+    "label": "Bad SEO Patterns",
+    "description": "Named patterns that create buyer confusion, reporting fog, or technical damage without proving value.",
+    "output_path": "/bad-seo-patterns/",
+    "content_types": ["bad-seo-pattern"],
+    "template": "bad-seo-pattern.html",
+    "icon": "warning-triangle"
+  },
+  {
+    "id": "experiments",
+    "label": "Experiments",
+    "description": "Public test logs with hypotheses, changes, limits, and notes about what the result does not prove.",
+    "output_path": "/experiments/",
+    "content_types": ["experiment"],
+    "template": "experiment.html",
+    "icon": "flask"
+  },
+  {
+    "id": "research",
+    "label": "Research",
+    "description": "Longer research notes and source-backed observations that do not fit a shorter guide or dictionary format.",
+    "output_path": "/research/",
+    "content_types": ["research"],
+    "template": "standard-page.html",
+    "icon": "magnifying-glass"
+  },
+  {
+    "id": "methodology",
+    "label": "Methodology",
+    "description": "Editorial rules, citation standards, review rules, and corrections policy for the publication.",
+    "output_path": "/methodology/",
+    "content_types": ["page"],
+    "template": "standard-page.html",
+    "icon": "ruler-measure",
+    "index_generated": false
+  }
+]

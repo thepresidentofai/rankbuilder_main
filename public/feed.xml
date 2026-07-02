@@ -2,23 +2,79 @@
 <rss version="2.0">
   <channel>
     <title>Rank Builder SEO</title>
-    <link>https://rankbuilderseo.com/</link>
-    <description>SEO how-to notes and experiment logs.</description>
+    <link>https://rankbuilderseo.com</link>
+    <description>Source-heavy SEO research, buyer-defense guides, provider reviews, audit reviews, and experiment logs.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>Technical SEO Baseline Checklist</title>
-      <link>https://rankbuilderseo.com/articles/technical-seo-baseline-checklist/</link>
-      <guid>https://rankbuilderseo.com/articles/technical-seo-baseline-checklist/</guid>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <description>A practical technical SEO baseline checklist for small static websites.</description>
+      <title>Cloudflare Pages SEO Baseline</title>
+      <link>https://rankbuilderseo.com/technical-seo/cloudflare-pages-seo-baseline/</link>
+      <guid>https://rankbuilderseo.com/technical-seo/cloudflare-pages-seo-baseline/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A practical baseline for checking a static Cloudflare Pages deployment before deeper SEO experiments begin.</description>
     </item>
     <item>
-      <title>Cloudflare Pages SEO Test Plan</title>
-      <link>https://rankbuilderseo.com/articles/cloudflare-pages-seo-test-plan/</link>
-      <guid>https://rankbuilderseo.com/articles/cloudflare-pages-seo-test-plan/</guid>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <description>A simple first SEO test plan for static sites deployed on Cloudflare Pages.</description>
+      <title>SEO Pricing for Small Businesses</title>
+      <link>https://rankbuilderseo.com/pricing/seo-pricing-for-small-businesses/</link>
+      <guid>https://rankbuilderseo.com/pricing/seo-pricing-for-small-businesses/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A buyer-defense pricing guide focused on scope, tradeoffs, and the questions that matter more than decorative averages.</description>
+    </item>
+    <item>
+      <title>Technical SEO Baseline Checklist</title>
+      <link>https://rankbuilderseo.com/guides/technical-seo-baseline-checklist/</link>
+      <guid>https://rankbuilderseo.com/guides/technical-seo-baseline-checklist/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A restrained checklist for confirming that a site can be crawled, understood, and measured before deeper SEO work begins.</description>
+    </item>
+    <item>
+      <title>How to Read an SEO Audit</title>
+      <link>https://rankbuilderseo.com/guides/how-to-read-an-seo-audit/</link>
+      <guid>https://rankbuilderseo.com/guides/how-to-read-an-seo-audit/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A practical guide to reading SEO audits for proof, prioritization, and buyer usefulness instead of document theatrics.</description>
+    </item>
+    <item>
+      <title>How to Evaluate an SEO Provider</title>
+      <link>https://rankbuilderseo.com/guides/how-to-evaluate-an-seo-provider/</link>
+      <guid>https://rankbuilderseo.com/guides/how-to-evaluate-an-seo-provider/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A buyer-defense guide to evaluating SEO providers without relying on prestige signals or decorative certainty.</description>
+    </item>
+    <item>
+      <title>RB-EXP-001: Title Format Baseline</title>
+      <link>https://rankbuilderseo.com/experiments/rb-exp-001-title-format-baseline/</link>
+      <guid>https://rankbuilderseo.com/experiments/rb-exp-001-title-format-baseline/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The first public Rank Builder experiment log for title format testing on a clean static publishing shell.</description>
+    </item>
+    <item>
+      <title>Sitemap</title>
+      <link>https://rankbuilderseo.com/dictionary/sitemap/</link>
+      <guid>https://rankbuilderseo.com/dictionary/sitemap/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A short definition of XML sitemaps and what they do for public, indexable URLs.</description>
+    </item>
+    <item>
+      <title>robots.txt</title>
+      <link>https://rankbuilderseo.com/dictionary/robots-txt/</link>
+      <guid>https://rankbuilderseo.com/dictionary/robots-txt/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A short definition of robots.txt and how it helps communicate crawl rules to automated agents.</description>
+    </item>
+    <item>
+      <title>Canonical URL</title>
+      <link>https://rankbuilderseo.com/dictionary/canonical-url/</link>
+      <guid>https://rankbuilderseo.com/dictionary/canonical-url/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A plain-language definition of canonical URLs and why they matter for duplicate and preferred page paths.</description>
+    </item>
+    <item>
+      <title>Ranking Guarantees</title>
+      <link>https://rankbuilderseo.com/bad-seo-patterns/ranking-guarantees/</link>
+      <guid>https://rankbuilderseo.com/bad-seo-patterns/ranking-guarantees/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Why ranking guarantees are a high-risk pattern for buyers unless the terms are narrow, concrete, and reviewable.</description>
     </item>
   </channel>
 </rss>

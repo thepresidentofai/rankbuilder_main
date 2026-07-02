@@ -1,0 +1,10 @@
+[
+  {
+    "id": "RB-EXP-001",
+    "title": "Title Format Baseline",
+    "status": "logged",
+    "route": "/experiments/rb-exp-001-title-format-baseline/",
+    "hypothesis": "Direct title formats are easier to compare than brand-led titles while the site is still establishing baseline discoverability.",
+    "notes": "Starter registry entry for the first public Rank Builder SEO experiment."
+  }
+]
